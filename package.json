@@ -1,0 +1,22 @@
+{
+  "name": "foodify",
+  "version": "1.0.0",
+  "description": "Receipe ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Foodify"
+  },
+  "keywords": [
+    "recipe"
+  ],
+  "author": "Gaurav",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  }
+}
